@@ -7,6 +7,7 @@ intro: "Rebuilding the webapp of Europe's largest modern bank."
 featuredImage: ./cover.jpg
 backTo: /projects
 backLabel: projects
+sortingOrder: 4
 ---
 
 I'm proud to be part of the team that built the [N26](https://n26.com/en-de/) web app.

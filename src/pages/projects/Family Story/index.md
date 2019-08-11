@@ -7,6 +7,7 @@ intro: "Rebuilding the webapp of Europe's largest modern bank."
 featuredImage: ./fs-cover.png
 backTo: /projects
 backLabel: projects
+sortingOrder: 3
 ---
 
 Inspired by my interest in history and culture, I built Family Story, a web app for story lovers, which allows users to find short stories posted by other users and share their own post.

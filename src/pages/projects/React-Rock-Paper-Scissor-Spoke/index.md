@@ -5,4 +5,5 @@ date: 2019-06-01
 intro: 'VSCode Theme Generator & Theme.'
 link: '-'
 featuredImage: ./screenshot.jpg
+sortingOrder: 5
 ---

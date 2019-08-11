@@ -7,6 +7,7 @@ intro: "Rebuilding the webapp of Europe's largest modern bank."
 featuredImage: ./viet-cover.png
 backTo: /projects
 backLabel: projects
+sortingOrder: 6
 ---
 
 ##GA Project 3: VietGram - 7 days, group of 3

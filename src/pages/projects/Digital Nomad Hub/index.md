@@ -7,6 +7,7 @@ intro: "Rebuilding the webapp of Europe's largest modern bank."
 featuredImage: ./dn-cover.png
 backTo: /projects
 backLabel: projects
+sortingOrder: 1
 ---
 
 Project 2: Digital Nomad Hub - 2 days, group of 2

@@ -135,7 +135,9 @@ export default IndexPage
 
 export const projectQuery = graphql`
   query ProjectsOverviewQuery {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+    allMarkdownRemark(
+      sort: { order: DESC, fields: [frontmatter___sortingOrder] }
+    ) {
       edges {
         node {
           id
@@ -150,7 +152,7 @@ export const projectQuery = graphql`
             link
             featuredImage {
               childImageSharp {
-                sqip(numberOfPrimitives: 24, blur: 0, width: 256) {
+                sqip(numberOfPrimitives: 24, blur: 1, width: 256) {
                   dataURI
                   svg
                 }

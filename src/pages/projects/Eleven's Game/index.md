@@ -7,6 +7,7 @@ intro: "Rebuilding the webapp of Europe's largest modern bank."
 featuredImage: ./cover.png
 backTo: /projects
 backLabel: projects
+sortingOrder: 2
 ---
 
 Project 1: Pac Man - 7 days, solo
