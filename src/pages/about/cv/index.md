@@ -2,7 +2,7 @@
 templateKey: TemplateBasic
 backTo: /
 backLabel: about
-title: Juliette Pretot
+title: Gaetano Barreca
 ---
 
 _Creative, ambitious, and enterprising software engineer._
