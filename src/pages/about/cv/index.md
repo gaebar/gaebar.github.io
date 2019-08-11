@@ -7,7 +7,7 @@ title: Gaetano Barreca
 
 _Creative, ambitious, and enterprising software engineer._
 
-**hi@juliette.sh**
+**<a href="mailto:hi@gaetanobarreca.dev" target="_blank">hi@gaetanobarreca.dev</a>**
 
 ## Skills
 
