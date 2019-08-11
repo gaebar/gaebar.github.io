@@ -20,16 +20,11 @@ The codebase is type-checked using **[TypeScript](https://www.typescriptlang.org
 
 As soon as changes are merged into the `master` branch, the page will automatically be built by **[Netlify](https://netlify.com)**. It is then deployed as a static site using the Netlify CDN.
 
-## How to Install locally 🏗️
+## Quick start 🏗️
 
- - npm / yarn install
- - gatsby devlop
+Install the basic dependencies and the Gatsby CLI by following the **[Gatsby Environment Set Up](https://www.gatsbyjs.org/tutorial/part-zero/)** guide.
 
-## 🚀 Quick start
-
-Follow the instructions on the Gatsby website to **[install the Gatsby CLI](https://www.gatsbyjs.org/tutorial/part-zero/)**
-
-Next, use yarn to get website package dependencies installed
+Next, use yarn to get website package dependencies installed:
 
 ``` sh
 yarn
