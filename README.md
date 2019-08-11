@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/52ecfb43-2056-4c85-a6eb-49ab9bc71a67/deploy-status)](https://app.netlify.com/sites/gaetanobarreca/deploys)
+
 ## Tech Stack 🥞
 
 #### Foundation 🏡
@@ -19,3 +21,23 @@ The codebase is type-checked using **[TypeScript](https://www.typescriptlang.org
 ## Continuous Deployment 🚀
 
 As soon as changes are merged into the `master` branch, the page will automatically be built by **[Netlify](https://netlify.com)**. It is then deployed as a static site using the Netlify CDN.
+
+## Quick start 🏗️
+
+Install the basic dependencies and the Gatsby CLI by following the **[Gatsby Environment Set Up](https://www.gatsbyjs.org/tutorial/part-zero/)** guide.
+
+Next, use yarn to get website package dependencies installed:
+
+``` sh
+yarn
+```
+
+If you're developing locally, you can start up the site locally with hot loading ⚡
+``` sh
+gatsby develop
+```
+
+Finally, you can build everything into a set of static files 🛠️
+``` sh
+gatsby build
+```
