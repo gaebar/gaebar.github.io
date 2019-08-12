@@ -98,7 +98,7 @@ const IndexPage: React.FunctionComponent<{
             {
               node: {
                 id,
-                frontmatter: { featuredImage, link, title, tools, intro },
+                frontmatter: { featuredImage, title, tools, intro },
                 fields: { slug }
               }
             }: any /* type checked by GraphQL */
@@ -115,7 +115,7 @@ const IndexPage: React.FunctionComponent<{
                     }}
                   />
                   <Title>
-                    <OverflowingLink to={String(link || slug)}>
+                    <OverflowingLink to={String(slug)}>
                       {String(title)}
                     </OverflowingLink>
                   </Title>
@@ -149,7 +149,6 @@ export const projectQuery = graphql`
             tools
             templateKey
             intro
-            link
             featuredImage {
               childImageSharp {
                 sqip(numberOfPrimitives: 24, blur: 1, width: 256) {
