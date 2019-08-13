@@ -1,18 +1,20 @@
 ---
 templateKey: TemplateBasic
 title: VietGram
-tools: React, Python, Flask and PosthreSQL
+tools: React, Node, Express, RestfulAPI, MongoDB
 date: 2019-08
-intro: "Rebuilding the webapp of Europe's largest modern bank."
+intro: 'A social networking site for explorers, bringing together hidden gems reviews and comment all in one place.'
 featuredImage: ./viet-cover.png
 backTo: /projects
 backLabel: projects
-sortingOrder: 6
+sortingOrder: 4
 ---
 
-##GA Project 3: VietGram - 7 days, group of 3
+GA Project 3 - 7 days, group of 3
 
 We had just over a week to create an app that had a custom made backend by building a RESTful API and using React to render the front end. We created VietGram, a social networking site for explorers, bringing together hidden gems reviews and comment all in one place. We also implemented a real-time chat widget with automatic translation into the local language. My part in the project included building the models in Node.js, building the MongoDB database models, API endpoints and other frontend components.
+
+**<a href="https://vietgram-ga.herokuapp.com/" target="_blank">Visit the Website</a>**
 
 ##Technical Stack
 
@@ -25,6 +27,4 @@ We had just over a week to create an app that had a custom made backend by build
 - Git, & GitHub
 - Heroku
 
-Visit the website ["here"](https://vietgram-ga.herokuapp.com/)
-
-If you want to read more about it: ["Read Me link"](https://github.com/gaebar/sei-group-project)
+If you want to read more about it: <a href="https://github.com/gaebar/sei-group-project" target="_blank">Read Me link</a>

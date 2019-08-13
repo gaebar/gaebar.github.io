@@ -11,76 +11,49 @@ _Creative, ambitious, and enterprising software engineer._
 
 ## Skills
 
-- JavaScript, GraphQL, Node.js, React
-- Web Performance Optimization
-- UX-Design
-- Mentoring, Agile Methodology
+- Tech Stack: Python, JavaScript, HTML, CSS
+- Frameworks and libraries: React, Bulma, Flask
+- Server-side: Node.js, Express, MongoDB, Mongoose, PostgreSQL
+- IDEs: Visual Studio Code, Atom
+- Adaptability, self-motivated, ability to learn quickly, curious, self-learning, good communicator, team player, attention to detail
+- Languages: Italian (native), English (Fluent)
 
-## Work
+## Experience
 
-#### Frontend Engineer at N26, Jan 2018 to now, NYC & Berlin
+#### Software Engineering Immersive course, General Assembly, London, May - August 2019
 
-Isomorphic React, GraphQL, & Node.js for a banking app with more than two million users.
-
-- Multiplied developer productivity by spearheading a component-based design system
-- Reduced complexity by engineering simple, standardized abstractions for data-flow, animations and color-logic
-- Improved time-to-interactive by one second through component-level code splitting
-- Reduced time-to-first-meaningful-paint by 20% through replacing sprites with improved server-side rendering
-- Doubled the speed of font loading using Unicode-range-splitting and preloading
-- Strong accessibility focus, agile, and cross-functional
-- Mentored junior engineers, trained new joiners
-
-#### Lead Engineer & Co-Founder at Language Academy, 2016-18, Berlin
-
-JavaScript, statically rendered React, & CSS for a language learning platform.
-
-- Bootstrapped a profitable business as a founder
-- Architected the company's web workflow
-- Achieved a 63% faster time-to-interactive compared to competitors
-- Reduced email automation cost by 82% using open-source software
-- Built a web-based chatbot that evaluated a user's language level
-- Built & designed conversion oriented web pages, achieving a 10% visitor to email-subscriber rate
-- Agile & cross-functional structure
-
-#### Web Developer & Design Researcher at Clue, 2015-16, Berlin
-
-JavaScript, HTML, CSS, & Python for a health tracking app with more than five million users.
-
-- Rebuilt the support website, increasing page views by an average of +20%
-- Built in-app surveys & A/B tests using web technologies
-- Prototyped a chatbot in Python
-- Conducted design research (User interviews, competitor/comparator reviews, A/B tests)
-- Developed and implemented company-wide processes for design research
-- Agile & cross-functional structure
-
-## Community
-
-#### Google Developer Expert for Web Technologies
-
-- Member of a program that recognizes experts and thought leaders in Google technologies
-
-## Education
-
-#### Google Developer Challenge Scholarship: Mobile Web Specialist
-
-- One of 1000 scholars selected by Google
-- Offline enabled JavaScript apps using service-workers, ES6
-
-#### Law School at Humboldt University Berlin
-
-- Academic processes, theories & principles of law
-- Studied the intersection of law & technology
-
-#### High School
-
-- Fast-tracked curriculum for high-achieving students
-- Graduated two years younger than the national average
+The course covers a vast array of content in three months, and it was a great way to get holistic knowledge to kick start my tech career. I was surrounded by very talented and interesting individuals from different backgrounds, which provided a new perspective and gave me the opportunity to explore this new domain. The most important takeaway from the course is the feeling that everything is achievable, and despite numerous challenges, I kept confidence in my ability to learn to code and found great value in asking people’s opinions and their reasoning behind decisions, as I feel this is truly the best way to learn.
 
 ## Related Projects
 
-- [co-commit](https://github.com/juliettepretot/npx-co-commit): A Node.js tool to co-author commits on GitHub when pair programming. Seen on the front page of [Product Hunt](https://www.producthunt.com/posts/co-commit).
-- [Clue Connect](https://www.behance.net/gallery/58479525/Clue-Connect): An article about the design process behind Clue's sharing feature.
-- [N26 Dark Mode](https://medium.com/insiden26/building-the-n26-dark-mode-2fc18c2ccdd5): An article about the engineering and design behind N26's new dark mode.
-- [yourtime.zone](https://yourtime.zone/): A React based web app which translates the time of an event into the visitor's local time. Seen on the front pages of [Web Designer News](http://www.webdesignernews.com/?s=yourtime.zone), [Product Hunt](https://www.producthunt.com/posts/yourtime-zone).
-- [Lucy VSCode theme](https://github.com/juliettepretot/lucy-vscode-theme): A VSCode theme & theme generator. Built with Node.js, 150k+ installs.
-- Tweet 280: A bookmarklet hack to tweet using longer tweets before Twitter rolled out the feature. Seen in [TechCrunch](https://techcrunch.com/gallery/how-to-enable-280-characters-on-twitter-right-now/slide/1/), [Mashable](http://mashable.com/2017/09/27/how-to-give-yourself-280-character-tweets/#ZpUyt3xR5EqU), [How To Geek](https://www.howtogeek.com/327555/how-to-get-twitters-new-280-character-limit-now/)
+- **<a href="https://github.com/gaebar/sei-project-4" target="_blank">Family Story</a>**
+- **<a href="https://github.com/gaebar/sei-group-project" 
+  target="_blank">VietGram</a>**
+- **<a href="https://github.com/gaebar/SEI-project2-" target="_blank">Digital Nomad Hub</a>**
+- **<a href="https://github.com/gaebar/sei-project-1" target="_blank">Eleven's Game</a>**
+- **<a href="https://github.com/gaebar/rock-paper-scissors-lizard-spock" target="_blank">Rock Paper Scissors Spock</a>**
+
+## Articles
+
+- **<a href="https://medium.com/@gaetanobarreca/my-experience-at-general-assembly-london-6a55d7de55c9" target="_blank">My Experience at General Assembly, London</a>**
+
+## Previous Experience
+
+#### April 2012 - May 2019: Teacher of Italian as a second language - freelance
+
+I have been tutoring for several years and worked as a teacher of Italian as a second language for adults. The goal is for students to enjoy their lessons so that they become both excited by the subject and confident in their own ability to do well. I try to challenge them to think for themselves by encouraging active participation in each lesson. I provide full immersion in the Italian culture, art and traditions as well as language, often visiting relevant landmarks in London and abroad.
+
+#### Education
+
+- May - August 2019 General Assembly Software Engineering Intensive - completed 12 weeks course
+- February 2019 Step Function - Introduction to Python - completed 3 weeks part-time course
+- 2018 Rice University - Python Programming Essentials - via Coursera
+- 2001-2006 Università degli Studi di Perugia, Italy - B.A. in Ancient History & Archeology
+
+#### Voluntary
+
+- 2011-2014: Voluntary Visitor Host and Gallery Assistant at Estorick Collection of Modern Italian Art
+
+#### Interests
+
+Writing historical novels, several of them have been published. Research and blogging about Italian Traditions.

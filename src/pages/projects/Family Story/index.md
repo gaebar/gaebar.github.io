@@ -3,16 +3,20 @@ templateKey: TemplateBasic
 title: Family Story
 tools: React, Python, Flask and PosthreSQL
 date: 2019-08
-intro: "Rebuilding the webapp of Europe's largest modern bank."
+intro: 'A content creation site for authors and readers to share and discover new short stories about families and old traditions.'
 featuredImage: ./fs-cover.png
 backTo: /projects
 backLabel: projects
-sortingOrder: 3
+sortingOrder: 5
 ---
+
+GA Project 4: Family Story - 7 days, solo
 
 Inspired by my interest in history and culture, I built Family Story, a web app for story lovers, which allows users to find short stories posted by other users and share their own post.
 
-## Something
+**<a href="https://family-story-ga.herokuapp.com" target="_blank">Visit the Website</a>**
+
+## Dettails
 
 Family Story is a content creation site for authors and readers to share and discover new short stories about families and old traditions. The website allows authors and readers to connect and communicate through messages and comments.
 
@@ -26,6 +30,4 @@ I am proud of the code that I wrote to meet these initial objectives, and going 
 
 React, JavaScript (ES6), PostgreSQL, Flask, Python version 3.7, Axios, SCSS/CSS, Spectre, Babel, HTML5, Git/Github, SQLAlchemy, Insomnia, Heroku, Flask-sqlalchemy, Marshmallow-sqlalchemy, praw, flask-bcrypt, psycopg2-binary, pyjwt, Flask-marshmallow, Webpack, JWT, Jsdom, Dotenv, bcrypt
 
-If you want to see the project please go to https://family-story-ga.herokuapp.com
-
-If you want to read more about it: ["Read Me link"](https://github.com/gaebar/sei-project-4)
+If you want to read more about it: <a href="https://github.com/gaebar/sei-project-4" target="_blank">Read Me link</a>
