@@ -22,4 +22,4 @@ My part in the project included creating a Mapbox API integration, display the r
 
 HTML5, SASS/SCSS, JavaScript (ES6), React, Webpack, Bulma (CSS framework), Mapbox, Rapid webcams API, Git/GitHub
 
-If you want to read more about it: <a href="https://github.com/gaebar/sei-project-2" target="_blank">Read Me link</a>
+See the code on <a href="https://github.com/gaebar/sei-project-2" target="_blank">GitHub</a>
