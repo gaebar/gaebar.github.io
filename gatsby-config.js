@@ -5,6 +5,7 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-typescript',
+
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-catch-links',
     {
@@ -12,6 +13,12 @@ module.exports = {
       options: {
         path: `${__dirname}/src/pages`,
         name: 'pages'
+      }
+    },
+    {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        trackingId: 'UA-18198086-2'
       }
     },
     {

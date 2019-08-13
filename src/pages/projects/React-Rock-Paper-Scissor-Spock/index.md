@@ -14,7 +14,7 @@ GA Hackathon: 2 days, solo
 
 Rock Paper Scissors Lizard Spock Game from the Big Bang Theory Series - Fan art project
 
-**<a href="ghttps://gaebar.github.io/rock-paper-scissors-lizard-spock/index.html" target="_blank">Start the game here!</a>**
+**<a href="https://gaebar.github.io/rock-paper-scissors-lizard-spock/index.html" target="_blank">Start the game here!</a>**
 
 ##Technical Stack HTML5, CSS3, JavaScript - ECMAScript6, React, Animate.css, SCSS, Flexbox, Git, GitHub
 

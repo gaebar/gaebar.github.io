@@ -1,13 +1,13 @@
 ---
 templateKey: TemplateBasic
-title: Digital Nomad Hub
+title: Gaetanobarreca.dev
 tools: React, JavaScript, Mapbox, RapidAPI
 date: 2019-08
 intro: 'Retrieves a map of locations of potential destination for digitals nomads using live streaming webcams.'
 featuredImage: ./dn-cover.png
 backTo: /projects
 backLabel: projects
-sortingOrder: 3
+sortingOrder: 7
 ---
 
 GA Project 2 / Hackathon: Digital Nomad Hub - 2 days, group of 2

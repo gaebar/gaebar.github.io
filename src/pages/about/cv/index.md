@@ -24,6 +24,19 @@ _Creative, ambitious, and enterprising software engineer._
 
 The course covers a vast array of content in three months, and it was a great way to get holistic knowledge to kick start my tech career. I was surrounded by very talented and interesting individuals from different backgrounds, which provided a new perspective and gave me the opportunity to explore this new domain. The most important takeaway from the course is the feeling that everything is achievable, and despite numerous challenges, I kept confidence in my ability to learn to code and found great value in asking people’s opinions and their reasoning behind decisions, as I feel this is truly the best way to learn.
 
+---
+
+Full-time Software Engineering Immersive course at the London GA Campus (13 weeks). Each day consist of a morning standup meeting with the class and instructional team to discuss progress and problems, then lessons and labs from 9-5 and daily homework (mini-projects), with 3 full project weeks and one 2-day hackathon.
+
+##Course activities:
+
+- Creating responsive web pages for modern browsers using HTML5, CSS3, and JavaScript.
+- Building richly interactive, front-end single-page applications using React.
+- Writing secure full-stack applications and deploying on Heroku.
+- Consuming web APIs from third-party sites such as Twilio, TFL, and Mapbox.
+- Building RESTful APIs using MongoDB, Express and Flask with Python.
+- Collaborating as a team using Git and GitHub.
+
 ## Related Projects
 
 - **<a href="https://github.com/gaebar/sei-project-4" target="_blank">Family Story</a>**
