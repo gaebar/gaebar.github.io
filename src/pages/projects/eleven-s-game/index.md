@@ -1,7 +1,7 @@
 ---
 templateKey: TemplateBasic
 title: Eleven's Game
-tools: JavaScript, Animate.css, SCSS, Flexbox
+tools: Vanilla JavaScript, Animate.css, Sass, Flexbox
 date: 2019-07
 intro: 'A Stranger Things themed variation on the classic game Pac Man'
 featuredImage: ./cover.png
@@ -12,10 +12,12 @@ sortingOrder: 2
 
 GA Project 1: Pac Man - 7 days, solo
 
-An individual project built in just over a week, which was both the first game I had built and my first project using Vanilla JavaScript, having only been studying it for two weeks. Eleven’sGame is a Stranger Things themed variation on the classic game Pac Man, a one-player game against a computer AI which intelligently hunts down the player.
+A project built in just over a week, which was both the first game I had built and my first project using Vanilla JavaScript, having only been studying it for two weeks. Eleven’s Game is a Stranger Things themed variation on the classic game Pac Man, a one-player game against a computer AI which intelligently hunts down the player.
 
-**<a href="https://gaebar.github.io/eleven-s-game/" target="_blank">Start the game here</a>**
+**<a href="https://gaebar.github.io/eleven-s-game/" target="_blank">Play the game</a>**
 
-##Technical Stack HTML5, CSS3, JavaScript - ECMAScript6, Animate.css, SCSS, Flexbox, Git, GitHub
+##Technical Stack
 
-See the code on <a href="https://github.com/gaebar/eleven-s-game" target="_blank">GitHub</a>
+HTML5, CSS3, ES6 JavaScript, Animate.css, Sass CSS, Flexbox
+
+See the code on <a href="https://github.com/gaebar/eleven-s-game" target="_blank">GitHub</a>.
