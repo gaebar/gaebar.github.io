@@ -7,7 +7,7 @@ intro: 'Fan art project game from the Big Bang Theory Series'
 featuredImage: ./rr-cover.png
 backTo: /projects
 backLabel: projects
-sortingOrder: 1
+sortingOrder: 7
 ---
 
 GA Hackathon: 2 days, solo

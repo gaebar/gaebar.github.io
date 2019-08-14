@@ -4,7 +4,7 @@ title: AI Spy - Side Project
 tools: Python, React, Google Cloud Vision API
 date: 2019-08
 intro: 'A little web app taking full advantage of the Google Cloud Vision API to create something incredibly dumb.'
-featuredImage: ./ai-spy.jpg
+featuredImage: ./ai-spy.png
 backTo: /projects
 backLabel: projects
 sortingOrder: 6

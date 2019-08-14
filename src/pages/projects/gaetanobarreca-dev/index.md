@@ -7,7 +7,7 @@ intro: 'My personal portfolio. Exploring Gatsby.JS, an open source framework bas
 featuredImage: ./portfolio.png
 backTo: /projects
 backLabel: projects
-sortingOrder: 7
+sortingOrder: 1
 ---
 
 My personal portfolio, created with <a href="https://www.gatsbyjs.org/" target="_blank"><strong>Gatsby.JS</strong></a>, an open source framework based on React.

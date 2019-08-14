@@ -4,10 +4,10 @@ title: Family Story
 tools: React, Flask, JWT, Python, PostgreSQL, Heroku
 date: 2019-08
 intro: 'A content creation site for authors and readers to share and discover new short stories about families and old traditions.'
-featuredImage: ./fs-cover.jpg
+featuredImage: ./fs-cover.png
 backTo: /projects
 backLabel: projects
-sortingOrder: 7
+sortingOrder: 8
 ---
 
 GA Project 4: Family Story - 7 days, solo
