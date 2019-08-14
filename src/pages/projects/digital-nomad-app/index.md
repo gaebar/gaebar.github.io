@@ -1,13 +1,13 @@
 ---
 templateKey: TemplateBasic
-title: Gaetanobarreca.dev
+title: Digital Nomad Hub
 tools: React, JavaScript, Mapbox, RapidAPI
 date: 2019-08
 intro: 'Retrieves a map of locations of potential destination for digitals nomads using live streaming webcams.'
 featuredImage: ./dn-cover.png
 backTo: /projects
 backLabel: projects
-sortingOrder: 7
+sortingOrder: 3
 ---
 
 GA Project 2 / Hackathon: Digital Nomad Hub - 2 days, group of 2
@@ -22,4 +22,4 @@ My part in the project included creating a Mapbox API integration, display the r
 
 HTML5, SASS/SCSS, JavaScript (ES6), React, Webpack, Bulma (CSS framework), Mapbox, Rapid webcams API, Git/GitHub
 
-If you want to read more about it: <a href="https://github.com/gaebar/sei-project-2" target="_blank">Read Me link</a>
+See the code on <a href="https://github.com/gaebar/digital-nomad-hub" target="_blank">GitHub</a>

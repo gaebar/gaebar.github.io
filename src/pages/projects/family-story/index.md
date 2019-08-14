@@ -30,4 +30,4 @@ I am proud of the code that I wrote to meet these initial objectives, and going 
 
 React, JavaScript (ES6), PostgreSQL, Flask, Python version 3.7, Axios, SCSS/CSS, Spectre, Babel, HTML5, Git/Github, SQLAlchemy, Insomnia, Heroku, Flask-sqlalchemy, Marshmallow-sqlalchemy, praw, flask-bcrypt, psycopg2-binary, pyjwt, Flask-marshmallow, Webpack, JWT, Jsdom, Dotenv, bcrypt
 
-If you want to read more about it: <a href="https://github.com/gaebar/sei-project-4" target="_blank">Read Me link</a>
+See the code on <a href="https://github.com/gaebar/family-story" target="_blank">GitHub</a>

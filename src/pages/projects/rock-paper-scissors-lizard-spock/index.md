@@ -18,4 +18,4 @@ Rock Paper Scissors Lizard Spock Game from the Big Bang Theory Series - Fan art 
 
 ##Technical Stack HTML5, CSS3, JavaScript - ECMAScript6, React, Animate.css, SCSS, Flexbox, Git, GitHub
 
-If you want to read more about it: <a href="https://github.com/gaebar/rock-paper-scissors-lizard-spock" target="_blank">Read Me link</a>
+See the code on <a href="https://github.com/gaebar/rock-paper-scissors-lizard-spock" target="_blank">GitHub</a>

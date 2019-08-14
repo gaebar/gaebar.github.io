@@ -1,25 +1,21 @@
 ---
 templateKey: TemplateBasic
-title: Digital Nomad Hub
-tools: React, JavaScript, Mapbox, RapidAPI
+title: Gaetanobarreca.dev
+tools: GatsbyJs, GraphQL, Netlify
 date: 2019-08
-intro: 'Retrieves a map of locations of potential destination for digitals nomads using live streaming webcams.'
+intro: 'Creating a personal portfolio, exploring Gatsby.JS, an open source framework based on React.'
 featuredImage: ./dn-cover.png
 backTo: /projects
 backLabel: projects
-sortingOrder: 3
+sortingOrder: 7
 ---
 
-GA Project 2 / Hackathon: Digital Nomad Hub - 2 days, group of 2
+A personal portfolio created with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby.JS</a>, an open source framework based on React.
 
-We had to render an app that retrieves data from a public API in an interesting and engaging manner. We had just under 48 hours to achieve this goal, making it extremely time-sensitive. We chose to create a web app called Digital Nomad Hub, which allows users to retrieve a map of locations of potential destination for digitals nomads, using the Mapbox and Rapid webcams APIs.
-
-My part in the project included creating a Mapbox API integration, display the results on the map and general styling of the map.
-
-**<a href="https://digital-nomad-ga.herokuapp.com/" target="_blank">Visit the Website</a>**
+**<a href="https://gaetanobarreca.dev/" target="_blank">Visit the Website</a>**
 
 ##Technical Stack
 
-HTML5, SASS/SCSS, JavaScript (ES6), React, Webpack, Bulma (CSS framework), Mapbox, Rapid webcams API, Git/GitHub
+GatsbyJs, GraphQL, Netlify
 
-See the code on <a href="https://github.com/gaebar/sei-project-2" target="_blank">GitHub</a>
+See the code on <a href="https://github.com/gaebar/gaetanobarreca.dev" target="_blank">GitHub</a>
