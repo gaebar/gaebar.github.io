@@ -18,13 +18,12 @@ We had just over a week to create an app that had a custom made backend by build
 
 ##Technical Stack
 
-- HTML5 & JavaScript (ES6)
+- HTML5 & ES6 JavaScript
 - React.js, Webpack, Babel, Axios & Yarn
-- CSS3, CSS Animation, SCSS & SPECTRE
+- CSS3, CSS Animations, Sass CSS & Spectre
 - Express.js, Mongoose & MongoDB
 - Insomnia, Mocha & Chai
-- Yandex (translate), emoji-mart (library)
-- Git, & GitHub
+- Yandex (translate), emoji-mart (React widget)
 - Heroku
 
-If you want to read more about it: <a href="https://github.com/gaebar/sei-group-project" target="_blank">Read Me link</a>
+See the code on <a href="https://github.com/gaebar/vietgram" target="_blank">GitHub</a>.
