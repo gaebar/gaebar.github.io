@@ -88,6 +88,7 @@ const MarkdownWrapper = styled.div`
   code {
     font-family: var(--primaryFont);
     white-space: normal;
+    color: var(--gray);
   }
 
   a {
