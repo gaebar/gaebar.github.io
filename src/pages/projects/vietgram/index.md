@@ -7,7 +7,7 @@ intro: 'A social networking site for explorers, bringing together hidden gems re
 featuredImage: ./viet-cover.png
 backTo: /projects
 backLabel: projects
-sortingOrder: 4
+sortingOrder: 9
 ---
 
 GA Project 3 - 7 days, group of 3

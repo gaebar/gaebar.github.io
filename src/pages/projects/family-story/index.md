@@ -7,7 +7,7 @@ intro: 'A content creation site for authors and readers to share and discover ne
 featuredImage: ./fs-cover.jpg
 backTo: /projects
 backLabel: projects
-sortingOrder: 5
+sortingOrder: 7
 ---
 
 GA Project 4: Family Story - 7 days, solo
