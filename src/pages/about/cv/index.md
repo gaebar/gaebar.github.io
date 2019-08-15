@@ -49,12 +49,11 @@ Each day consists of a morning standup meeting with the class and instructional 
 
 ## Projects
 
-- **<a href="https://github.com/gaebar/sei-project-4" target="_blank">Family Story</a>**
-- **<a href="https://github.com/gaebar/sei-group-project" 
-  target="_blank">Vietgram</a>**
-- **<a href="https://github.com/gaebar/SEI-project2-" target="_blank">Digital Nomad Hub</a>**
-- **<a href="https://github.com/gaebar/sei-project-1" target="_blank">Eleven's Game</a>**
-- **<a href="https://github.com/gaebar/rock-paper-scissors-lizard-spock" target="_blank">Rock Paper Scissors Lizard Spock</a>**
+- **<a href="/projects/family-story/" target="_blank">Family Story</a>**
+- **<a href="/projects/vietgram/" target="_blank">Vietgram</a>**
+- **<a href="/projects/digital-nomad-app/" target="_blank">Digital Nomad Hub</a>**
+- **<a href="/projects/eleven-s-game/" target="_blank">Eleven's Game</a>**
+- **<a href="/projects/rock-paper-scissors-lizard-spock/" target="_blank">Rock Paper Scissors Lizard Spock</a>**
 
 ## Articles
 
