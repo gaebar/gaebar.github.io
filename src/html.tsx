@@ -8,7 +8,7 @@ const FONTS = {
 
 const WEBFONTS = `
 @font-face {
-  font-family: 'Juliette';
+  font-family: 'GaeFont';
   src: url('${FONTS.regular}') format('woff2');
   font-weight: normal;
   font-style: normal;
@@ -16,7 +16,7 @@ const WEBFONTS = `
 }
 
 @font-face {
-  font-family: 'Juliette';
+  font-family: 'GaeFont';
   src: url('${FONTS.bold}') format('woff2');
   font-weight: bold;
   font-style: normal;
@@ -24,7 +24,7 @@ const WEBFONTS = `
 }
 
 @font-face {
-  font-family: 'Juliette Sans';
+  font-family: 'GaeFont Sans';
   src: url('${FONTS.sans}') format('woff2');
   font-weight: bold;
   font-style: normal;

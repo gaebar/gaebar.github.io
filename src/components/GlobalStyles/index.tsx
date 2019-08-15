@@ -3,8 +3,8 @@ import { createGlobalStyle, css } from 'styled-components'
 const GlobalStyles = createGlobalStyle`
   :root {
     /* fonts */
-    --primaryFont: Juliette, monospace;
-    --sansFont: 'Juliette Sans', sans-serif;
+    --primaryFont: GaeFont, monospace;
+    --sansFont: 'GaeFont Sans', sans-serif;
 
     /* colors */
     --background-color: hsl(217, 36%, 10%);
