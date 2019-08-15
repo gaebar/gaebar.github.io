@@ -1,9 +1,9 @@
 import React from 'react'
 
 const FONTS = {
-  regular: '/fonts/jregular.woff2',
-  bold: '/fonts/jbold.woff2',
-  sans: '/fonts/jsans.woff2'
+  regular: '/fonts/gregular.woff2',
+  bold: '/fonts/gbold.woff2',
+  sans: '/fonts/gsans.woff2'
 }
 
 const WEBFONTS = `
