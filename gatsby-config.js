@@ -6,6 +6,8 @@ module.exports = {
   plugins: [
     'gatsby-plugin-typescript',
     'gatsby-plugin-react-helmet',
+    'gatsby-plugin-sitemap',
+    'gatsby-plugin-robots-txt',
     'gatsby-plugin-catch-links',
     {
       resolve: 'gatsby-source-filesystem',
