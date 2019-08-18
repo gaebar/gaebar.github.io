@@ -63,7 +63,8 @@ const HTML: React.FunctionComponent<{
       <meta charSet="utf-8" />
       <meta httpEquiv="x-ua-compatible" content="ie=edge" />
       <title>Gaetano Barreca</title>
-      <meta name="description" content="Frontend Engineer" />
+      <meta name="description" content="Full-Stack Software Engineer" />
+      <meta property="og:image" content="/favicons/social.png" />
       <meta
         name="viewport"
         content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
