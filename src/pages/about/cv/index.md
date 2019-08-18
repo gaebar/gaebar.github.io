@@ -13,7 +13,7 @@ _Creative, ambitious, and enterprising software engineer._
 
 - Databases: MongoDB, Mongoose, PostgreSQL, SQLAlchemy
 - Backend: Python, Flask, Node.js, Express
-- Frontend: React, Bulma, Spectre
+- Frontend: ES6 Javascript, React, Bulma, Spectre
 - IDEs: Visual Studio Code, Atom
 
 ## Skills
@@ -25,7 +25,7 @@ _Creative, ambitious, and enterprising software engineer._
 - Working with Agile & Scrum methodologies with Trello
 - Prototyping applications with ER Diagrams and wireframes
 
-Adaptability, self-motivated, quick-learner, curious, autonomous, good communicator, team player, attention to detail
+Adaptable, self-motivated, quick-learner, curious, autonomous, good communicator, team player.
 
 Languages: Italian (native), English (proficient)
 
@@ -51,7 +51,7 @@ Each day consists of a morning standup meeting with the class and instructional 
 
 - **<a href="/projects/family-story/" target="_blank">Family Story</a>**
 - **<a href="/projects/vietgram/" target="_blank">Vietgram</a>**
-- **<a href="/projects/digital-nomad-app/" target="_blank">Digital Nomad Hub</a>**
+- **<a href="/projects/digital-nomad-hub/" target="_blank">Digital Nomad Hub</a>**
 - **<a href="/projects/eleven-s-game/" target="_blank">Eleven's Game</a>**
 - **<a href="/projects/rock-paper-scissors-lizard-spock/" target="_blank">Rock Paper Scissors Lizard Spock</a>**
 

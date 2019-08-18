@@ -22,6 +22,6 @@ Styling is done using [**Styled Components**](https://www.styled-components.com)
 
 The codebase is type-checked using [**TypeScript**](https://www.typescriptlang.org/), formatted using [**Prettier**](https://github.com/prettier/prettier) and linted using [**TSLint**](https://palantir.github.io/tslint/). Enforced using commit hooks.
 
-The website automatically rebuilds when changes are merged to the `master` branch. Everything is then deployed live as a static site by Netlify.
+The website automatically rebuilds when changes are merged to the `master` branch. Everything is then deployed live as a static site by [**Netlify**](https://www.netlify.com).
 
 Source code on <a href="https://github.com/gaebar/gaetanobarreca.dev" target="_blank"><strong>GitHub</strong></a>.
