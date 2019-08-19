@@ -3,7 +3,7 @@ templateKey: TemplateBasic
 title: Rock Paper Scissor Lizard Spock
 tools: HTML5, Sass CSS, Vanilla ES6 JavaScript, Flexbox
 date: 2019-07
-intro: 'Fan art project game from the Big Bang Theory Series'
+intro: 'Fan art project game from the Big Bang Theory Series.'
 featuredImage: ./rr-cover.png
 backTo: /projects
 backLabel: projects

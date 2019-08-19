@@ -1,6 +1,6 @@
-/resume          /about/cv              301
+/cv          /about/cv              301
 /cv              /about/cv              301
-/download-resume https://drive.google.com/open?id=1ZAmqJD1W9T2F3dX353rUdU5uKSuAg6xP 301
-/download-cv /download-resume           301
-/cv-pdf /download-resume                301
-https://cv.gaetanobarreca.dev https://gaetanobarreca.dev/download-resume 301
+/download-cv https://drive.google.com/open?id=1ZAmqJD1W9T2F3dX353rUdU5uKSuAg6xP 301
+/download-cv /download-cv           301
+/cv-pdf /download-cv                301
+https://cv.gaetanobarreca.dev https://gaetanobarreca.dev/download-cv 301

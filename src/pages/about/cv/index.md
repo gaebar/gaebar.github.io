@@ -35,7 +35,7 @@ Languages: Italian (native), English (proficient)
 
 The course covers a vast array of content in three months, and it was a great way to get holistic knowledge to kick start my tech career.
 
-Each day consists of a morning standup meeting with the class and instructional team to discuss progress and problems, then lessons and labs from 9-5 and daily homework (mini-projects), with 3 full project weeks and one 2-days hackathon.
+Each day consists of a morning standup meeting with the class and instructional team to discuss progress and problems, then lessons and labs from 9-5 and daily homework (mini-projects), with 3 full project weeks and one 2-day hackathon.
 
 ##Course activities:
 
@@ -65,14 +65,14 @@ Each day consists of a morning standup meeting with the class and instructional 
 
 I have been tutoring for several years and worked as a teacher of Italian as a second language for adults. The goal is for students to enjoy their lessons so that they become both excited by the subject and confident in their own ability to do well. I try to challenge them to think for themselves by encouraging active participation in each lesson. I provide full immersion in the Italian culture, art and traditions as well as language, often visiting relevant landmarks in London and abroad.
 
-#### Education
+## Education
 
 - May - August 2019 General Assembly Software Engineering Intensive - completed 12 weeks course
 - February 2019 Step Function - Introduction to Python - completed 3 weeks part-time course
 - 2018 Rice University - Python Programming Essentials - via Coursera
 - 2001-2006 Università degli Studi di Perugia, Italy - B.A. in Ancient History & Archeology
 
-#### Interests & Voluntary
+## Interests & Voluntary
 
 - Writing historical novels, several of witch are published
 - Researching and blogging about Italian Traditions

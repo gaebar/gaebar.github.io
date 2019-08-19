@@ -3,7 +3,7 @@ templateKey: TemplateBasic
 title: Eleven's Game
 tools: Vanilla JavaScript, Animate.css, Sass, Flexbox
 date: 2019-07
-intro: 'A Stranger Things themed variation on the classic game Pac Man'
+intro: 'A Stranger Things themed variation on the classic game Pac Man.'
 featuredImage: ./cover.png
 backTo: /projects
 backLabel: projects
