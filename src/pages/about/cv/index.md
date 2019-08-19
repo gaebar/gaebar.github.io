@@ -25,7 +25,7 @@ _Creative, ambitious, and enterprising software engineer._
 - Working with Agile & Scrum methodologies with Trello
 - Prototyping applications with ER Diagrams and wireframes
 
-Adaptable, self-motivated, quick-learner, curious, autonomous, good communicator, team player.
+Adaptable, self-motivated, quick-learner, curious, autonomous, good communicator, team player
 
 Languages: Italian (native), English (proficient)
 
@@ -39,13 +39,13 @@ Each day consists of a morning standup meeting with the class and instructional 
 
 ##Course activities:
 
-- Creating responsive web pages for modern browsers using HTML5, CSS3, and JavaScript.
-- Building richly interactive, front-end single-page applications using React.
+- Creating responsive web pages for modern browsers using HTML5, CSS3, and JavaScript
+- Building richly interactive, front-end single-page applications using React
 - Writing secure full-stack MVC (Model-View-Controller) applications
 - Deploying dynamic apps on Heroku and static websites to Netlify
-- Consuming web APIs from third-party sites such as Twilio, TFL, and Mapbox.
-- Building RESTful APIs using MongoDB, Express and Flask with Python.
-- Collaborating as a team using Git and GitHub.
+- Consuming web APIs from third-party sites such as Twilio, TFL, and Mapbox
+- Building RESTful APIs using MongoDB, Express and Flask with Python
+- Collaborating as a team using Git and GitHub
 
 ## Projects
 
@@ -72,10 +72,8 @@ I have been tutoring for several years and worked as a teacher of Italian as a s
 - 2018 Rice University - Python Programming Essentials - via Coursera
 - 2001-2006 Università degli Studi di Perugia, Italy - B.A. in Ancient History & Archeology
 
-#### Voluntary
+#### Interests & Voluntary
 
-- 2011-2014: Voluntary Visitor Host and Gallery Assistant at Estorick Collection of Modern Italian Art
-
-#### Interests
-
-Writing historical novels, several of them have been published. Research and blogging about Italian Traditions.
+- Writing historical novels, several of witch are published
+- Researching and blogging about Italian Traditions
+- 2011-2014: Visitor Host at The British Museum and Estorick Collection of Modern Italian Art
