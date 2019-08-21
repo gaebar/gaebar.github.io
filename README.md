@@ -1,5 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/52ecfb43-2056-4c85-a6eb-49ab9bc71a67/deploy-status)](https://app.netlify.com/sites/gaetanobarreca/deploys)
 
+This is the code for my personal porftolio:  **[gaetanobarreca.dev](http://gaetanobarreca.dev)**
+
 ## Tech Stack 🥞
 
 #### Foundation 🏡
