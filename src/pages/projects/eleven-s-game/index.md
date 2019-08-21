@@ -10,7 +10,7 @@ backLabel: projects
 sortingOrder: 8
 ---
 
-GA Project 1: Pac Man - 7 days, solo
+GA Project 1: Pac Man - 7 day solo
 
 A project built in just over a week, which was both the first game I had built and my first project using Vanilla JavaScript, having only been studying it for two weeks. Eleven’s Game is a Stranger Things themed variation on the classic game Pac Man, a one-player game against a computer AI which intelligently hunts down the player.
 
