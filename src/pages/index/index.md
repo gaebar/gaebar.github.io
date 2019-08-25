@@ -7,7 +7,7 @@ style: index
 
 My name is **_Gaetano Barreca_**. I am a creative, ambitious, and enterprising software engineer.
 
-A recognized / top ten seller published Italian novelist and former archeologist. I love art, collecting first editions of my favorite books and going to long walks. I have proudly worked at the British Museum and the Estorick Collection of Modern Italian Art.
+I am also a best seller Italian novelist and former archeologist. I love art, collecting first editions of my favorite books and going to long walks.
 
 <span class="secondary-text">
 
