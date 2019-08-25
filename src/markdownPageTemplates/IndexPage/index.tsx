@@ -44,7 +44,7 @@ const StyledImage = styled(Img)`
   max-width: 100%;
 
   @media (max-width: 550px) {
-    margin: -9% 0 -20%;
+    margin: -31% 0 -23%;
   }
 `
 

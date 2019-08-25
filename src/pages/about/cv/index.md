@@ -29,6 +29,8 @@ Adaptable, self-motivated, quick-learner, curious, autonomous, good communicator
 
 Languages: Italian (native), English (proficient)
 
+Nationalities: Italian and British
+
 ## Experience
 
 #### Software Engineering Immersive course, General Assembly, London, May - August 2019
