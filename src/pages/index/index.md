@@ -11,6 +11,6 @@ A recognized / top ten seller published Italian novelist and former archeologist
 
 <span class="secondary-text">
 
-To know more, see my [CV](/about/cv).
+Find out [more about me](/about/cv).
 
 </span>
