@@ -38,6 +38,14 @@ export const Main = styled.main`
     font-size: 21px;
     margin-bottom: 3.5rem;
   }
+
+  @media only screen and (max-width: 550px) {
+    padding: calc(
+      0rem + var(--responsive-padding) + var(--safe-area-inset-top)
+    );
+    font-size: 20px;
+    margin-bottom: 2.5rem;
+  }
 `
 
 const Layout: React.FunctionComponent<{
