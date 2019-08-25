@@ -9,6 +9,6 @@ My name is **_Gaetano Barreca_**. I am a creative, ambitious, and enterprising s
 
 <span class="secondary-text">
 
-Find out more [about me](/about/cv).
+Find out [more about me](/about/cv).
 
 </span>
