@@ -16,7 +16,7 @@ We had to render an app that retrieves data from a public API in an interesting 
 
 My part in the project included creating a Mapbox API integration, display the results on the map and general styling of the map.
 
-**<a href="https://digital-nomad-ga.herokuapp.com/" target="_blank">Visit the Website</a>**
+**<a href="https://digital-nomad-hub.herokuapp.com/" target="_blank">Visit the Website</a>**
 
 ##Technical Stack
 
