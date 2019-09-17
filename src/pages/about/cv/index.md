@@ -76,6 +76,6 @@ I have been tutoring for several years and worked as a teacher of Italian as a s
 
 ## Interests & Voluntary
 
-- Writing historical novels, several of witch are published
+- Writing historical novels, several of which are published
 - Researching and blogging about Italian Traditions
 - 2011-2014: Visitor Host at The British Museum and Estorick Collection of Modern Italian Art
