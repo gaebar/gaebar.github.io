@@ -27,7 +27,7 @@
     "gatsby-remark-images": "^7.7.0",
     "gatsby-remark-smartypants": "^2.0.8",
     "gatsby-source-filesystem": "^5.7.0",
-    "gatsby-transformer-remark": "^5.25.1",
+    "gatsby-transformer-remark": "^6.7.0",
     "gatsby-transformer-sharp": "^5.7.0",
     "gatsby-transformer-sqip": "^5.7.0",
     "react": "^16.8.3",
