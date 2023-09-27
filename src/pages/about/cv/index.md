@@ -7,7 +7,7 @@ title: Gaetano Barreca
 
 _Creative, ambitious, and enterprising software engineer._
 
-**<a href="mailto:hi@gaetanobarreca.dev" target="_blank">hi@gaetanobarreca.dev</a>**
+**<a href="https://www.linkedin.com/in/gaetanobarreca/" target="_blank">www.linkedin.com/in/gaetanobarreca/</a>**
 
 ## Tech Stack
 
